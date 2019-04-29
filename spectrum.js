@@ -1,3 +1,4 @@
+/* jshint expr: true */
 // Spectrum Colorpicker v1.8.0
 // https://github.com/bgrins/spectrum
 // Author: Brian Grinstead
