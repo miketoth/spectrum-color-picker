@@ -28,12 +28,6 @@ Spectrum is registered as package with npm.  It can be installed with:
 
     npm install spectrum-colorpicker
 
-### Bower
-
-Spectrum is registered as a package with [Bower](http://bower.io/), so it can be pulled down using:
-
-    bower install spectrum
-
 ### Using spectrum with a CDN
 
 CDN provided by [cdnjs](https://cdnjs.com/libraries/spectrum)
